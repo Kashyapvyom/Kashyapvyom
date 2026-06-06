@@ -23,24 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-Java • JavaScript • SQL • Python
-
-### Backend
-Spring Boot • REST APIs • JWT Authentication • WebSocket
-
-### Frontend
-React.js • HTML • CSS • Tailwind CSS
-
-### Databases
-PostgreSQL • MySQL
-
-### AI & Computer Vision
-OpenCV • MediaPipe • FastAPI
-
-### Tools
-Git • GitHub • Docker • Postman • VS Code
-
+![My Skills](https://skillicons.dev/icons?i=java,spring,react,postgresql,mysql,docker,git,github,python,html,css,js)
 ---
 
 ## 🌟 Featured Projects
@@ -72,21 +55,20 @@ Offline UPI-inspired payment system designed for low-connectivity environments.
 ## 🏆 Certifications
 
 - SAP ABAP Certification
-- [Add other certifications]
+  https://www.credly.com/badges/4dd31fd3-5de3-49c6-875b-02501bb23a68
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn: [Your LinkedIn]
+LinkedIn:  https://www.linkedin.com/in/vyom-kashyap-
+5a1781298/
 
-LeetCode: [Your LeetCode]
+CodeChef: https://www.codechef.com/users/hearty_road_49
 
-CodeChef: [Your CodeChef]
+GeeksforGeeks: https://www.geeksforgeeks.org/profile/vyombht78z
 
-GeeksforGeeks: [Your GFG]
-
-Portfolio: [Your Portfolio Website]
+Portfolio: https://portfoliovyom.netlify.app/#projects
 
 ---
 
