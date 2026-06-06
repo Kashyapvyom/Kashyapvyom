@@ -61,8 +61,7 @@ Offline UPI-inspired payment system designed for low-connectivity environments.
 
 ## 🌐 Connect With Me
 
-LinkedIn:  https://www.linkedin.com/in/vyom-kashyap-
-5a1781298/
+LinkedIn:  https://www.linkedin.com/in/vyom-kashyap-5a1781298/
 
 CodeChef: https://www.codechef.com/users/hearty_road_49
 
