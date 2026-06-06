@@ -56,7 +56,10 @@ Offline UPI-inspired payment system designed for low-connectivity environments.
 
 - SAP ABAP Certification
   https://www.credly.com/badges/4dd31fd3-5de3-49c6-875b-02501bb23a68
-
+- SAP Generative AI Developer 
+  https://www.credly.com/badges/87f3aa87-ed14-4754-8a9d-f9c67e406f58
+- Certified Implementation Specialist – Data Foundations (CMDB and CSDM) (CIS-DF (CMDB and CSDM))  
+  https://wsr.pearsonvue.com/testtaker/registration/ViewScoreReports.htm?sortExamsColumn=examCompletedDateTime&sortExamsAscending=false&previousSortExamsColumn=&conversationId=939827
 ---
 
 ## 🌐 Connect With Me
